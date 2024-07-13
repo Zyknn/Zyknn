@@ -20,7 +20,7 @@
 
 ## ```📲 MY SOSIAL MEDIA```
 <p align="center">
-<a href="https://instagram.com/zuanxfnd"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://instagram.com/zuanxfnd"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=gmail&logoColor=white"/> 
 </a>
 </p>
 
