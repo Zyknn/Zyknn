@@ -1,6 +1,6 @@
 <h1 align="center">AMAKAWA ZYKUAN</h1>
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=5882FA&center=true&vCenter=true&multiline=false&lines=Hii, Welcome!;I'am+Zykuan" alt="Zykuan">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=5882FA&center=true&vCenter=true&multiline=false&lines=Welcome!;I'am+Zykuan" alt="Zykuan">
 
 ![IMG_20220320_184923_554](https://telegra.ph/file/28da963a9171247226bf9.jpg)
 </p>
