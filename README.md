@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=Haii+Welcome+To+My+Github.;I'am+Not+Programmer." alt="Zykuan">
 
-![IMG_20220320_184923_554](https://telegra.ph/file/a296326da141a2cf7da95.jpg)
+![IMG_20220320_184923_554](https://telegra.ph/file/aa2f94b21fcc3ccab50d3.jpg)
 
 </p>
 <h1 align="center">ITS ME ZYKUAN</h1>
