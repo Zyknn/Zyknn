@@ -24,23 +24,6 @@
 </a>
 </p>
 
-## ```🧧 SUPPORT ME```
- Thank you for donation or support ><
-> [`SAWERIA`](https://saweria.co/AmakawaZyk)
-  
-> [`TRAKTEER`](trakteer.id/zykuan)
-  
-## ```📩 CONTACT ZYKUAN OFFICIAL```
- CHAT ME IF YOU WANT TO ASK SOMETHING🚀
-- [`EMAIL`](itsmezykuan@gmail.com)
-- [`INSTAGRAM`](https://instagram.com/zuanxfnd)
-
-## ```🤖 CREATOR BOT```
- [![Zykuan](https://github.com/amakawazkn.png?size=200)](https://github.com/amakawazkn) 
----->
-[Zykuan](https://github.com/AmakawaZKN) 
- CREATOR
-
   ## ```🥇 ZYKUAN AWARDS```
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=AmakawaZKN)
