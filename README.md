@@ -26,7 +26,7 @@
 
   ## ```🥇 ZYKUAN AWARDS```
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AmakawaZKN)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Zyknn)
 
 
 ## ```📈 ZYKUAN STATISTICS```
