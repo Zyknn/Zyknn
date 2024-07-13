@@ -6,19 +6,13 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/AmakawaZKN"><img title="Author" src="https://img.shields.io/badge/AmakawaZKN-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Zyknn"><img title="Author" src="https://img.shields.io/badge/Zyknn-blue.svg?style=for-the-badge&logo=github"></a>
  </p>
- <h4 align="center">
-  <a
-  <a href="https://wa.me/628979440862">If there is a need, you can directly chat with me </a>
-</h4>
-</p>
-
 
 ## ```🕵️‍♂️ ABOUT ME```
 ```bash
 - 👋 Hello, I’m @Zykuan
-- 👀 I’m 15 years old
+- 👀 I’m 16 years old
 - 🌱 I'm just a beginner in this field
 - 💞️ I don't care what people say about me, I just want to give this a try
 - 📫 I'am not a developer, I'm not a mastah and I'm not a temperature
@@ -26,9 +20,8 @@
 
 ## ```📲 MY SOSIAL MEDIA```
 <p align="center">
-<a href="https://instagram.com/zyykn.jpn"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/628979440862"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://tiktok.com/@akwzykuan"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@akwzykuan" /></a>
+<a href="https://instagram.com/zuanxfnd"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+</a>
 </p>
 
 ## ```🧧 SUPPORT ME```
@@ -39,9 +32,8 @@
   
 ## ```📩 CONTACT ZYKUAN OFFICIAL```
  CHAT ME IF YOU WANT TO ASK SOMETHING🚀
-- [`EMAIL`](zykuanofficials@gmail.com)
-- [`WHATSAPP`](https://wa.me/628979440862?text=Haii+Amakawa+Zykuan)
-- [`INSTAGRAM`](https://instagram.com/zyykn.jpn)
+- [`EMAIL`](itsmezykuan@gmail.com)
+- [`INSTAGRAM`](https://instagram.com/zuanxfnd)
 
 ## ```🤖 CREATOR BOT```
  [![Zykuan](https://github.com/amakawazkn.png?size=200)](https://github.com/amakawazkn) 
