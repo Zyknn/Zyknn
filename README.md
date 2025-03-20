@@ -1,4 +1,4 @@
-<h1 align="center">AMAKAWA ZYKUAN</h1>
+<h1 align="center">Shin Eun Zy</h1>
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=5882FA&center=true&vCenter=true&multiline=false&lines=Welcome!;I'am+Zykuan" alt="Zykuan">
 
