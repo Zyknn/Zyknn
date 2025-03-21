@@ -1,22 +1,15 @@
-<h1 align="center">Hey There, I Am Eunzy</h1>
+<h1 align="center">👋 Hey There, I'm Eunzy!</h1>
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&multiline=false&lines=Love+Your+Shine." alt="Zykuan">
   </a>
-</p>
-
-<p align="center">
   <img src="https://files.catbox.moe/wu09wn.jpg" alt="IMG_20220320_184923_554">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zyknn">
-    <img title="Author" src="https://img.shields.io/badge/Zyknn-blue.svg?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://instagram.com/zuanxfnd">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/Zyknn"><img title="Author" src="https://img.shields.io/badge/Zyknn-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://instagram.com/zuanxfnd"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ </p>
 
 ## ```🕵️‍♂️ ABOUT ME```
 ```bash
