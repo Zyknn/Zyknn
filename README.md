@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://github.com/Zyknn"><img title="Author" src="https://img.shields.io/badge/Zyknn-blue.svg?style=for-the-badge&logo=github"></a>
-<a href="https://instagram.com/zuanxfnd"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/zuanxfnd"><img src="https://img.shields.io/badge/ZUANXFND-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </p>
 
 ## ```🕵️‍♂️ ABOUT ME```
