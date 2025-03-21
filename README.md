@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey There, I'm Eunzy!</h1>
+<h1 align="center">👋🏻 Hey There, I'm Eunzy!</h1>
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&multiline=false&lines=Love+Your+Shine." alt="Zykuan">
