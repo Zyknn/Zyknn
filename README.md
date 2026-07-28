@@ -2,46 +2,59 @@
 
 # 👋 Hey, I'm Azuan Firnanda
 
-### a.k.a **Zykuan**
+### a.k.a. **Zykuan**
 
-*Creative Developer crafting bots, websites, and digital experiences.*
+*Creative Developer building bots, AI tools, and digital experiences.*
 
-<a href="https://instagram.com/wlzbdks"><img src="https://img.shields.io/badge/@zuanxfnd-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://github.com/Zyknn"><img src="https://img.shields.io/badge/Zyknn-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://xiself.biz.id"><img src="https://img.shields.io/badge/XiSELF-0F3460?style=flat-square&logo=vercel&logoColor=white" alt="XiSELF"></a>
+[![Instagram](https://img.shields.io/badge/@zuanxfnd-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/wlzbdks)
+[![GitHub](https://img.shields.io/badge/Zyknn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zyknn)
+[![Website](https://img.shields.io/badge/XiSELF-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://xiself.biz.id)
 
 </div>
 
 ---
 
-## ✨ About Me
+# ✨ About
 
-Hi! I'm **Azuan Firnanda**, better known online as **Zykuan**.
-My projects mainly focus on **WhatsApp bots, AI automation, web applications, and creative tools**. Besides coding, I enjoy designing user interfaces, creating branding assets, and exploring new technologies that help bring ideas to life.
+Hi! I'm **Azuan Firnanda**, better known as **Zykuan**.
 
-- 🇮🇩 18 y/o Creative Developer from Jakarta, Indonesia
-- 🤖 Building WhatsApp bots, AI tools, and web applications
-- 🎨 Designing UI, branding, graphics, and digital experiences
-- 💻 AI helps me write code — I help it write better code 😆
-- 🚀 Currently building **XiSELF** & **Calestia**
-- 🌱 Always learning, experimenting, and shipping something new
+I'm a developer from **Indonesia** who enjoys creating things that are useful and fun to use. My main interests are **WhatsApp bots**, **AI automation**, **web applications**, and **creative digital products**.
 
-When I'm not working on a project, you'll probably find me experimenting with new concepts, improving existing products, or learning something new.
----
+Besides programming, I also love designing interfaces, building branding, and exploring new technologies.
 
-## 🚀 Featured Projects
+### Currently
 
-| Project | Description |
-|---------|-------------|
-| [**XiSELF**](https://xiself.biz.id) | AI-powered WhatsApp selfbot platform with automation, anti-delete, media tools, and productivity features. |
-| [**Calestia**](https://calestia.my.id) | Multi-purpose WhatsApp bot featuring AI, media downloaders, sticker maker, and community utilities. |
-| **Graphic Design** | UI/UX, branding, social media assets, thumbnails, and digital visual design for products & communities. |
+- 🤖 Building AI-powered WhatsApp products
+- 🌐 Developing web applications
+- 🎨 Designing UI/UX & branding
+- 🚀 Growing **XiSELF** and **Calestia**
+- 🌧️ Learning something new every day
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects
 
-<div align="center">
+### 🔹 XiSELF
+
+AI-powered WhatsApp selfbot platform with automation, anti-delete, media tools, productivity features, and AI integration.
+
+🔗 https://xiself.biz.id
+
+---
+
+### 🔹 Calestia
+
+A multi-purpose WhatsApp bot featuring AI chat, downloaders, sticker tools, utilities, games, and community features.
+
+---
+
+### 🔹 Graphic Design
+
+UI/UX, branding, thumbnails, social media assets, and digital visual experiences.
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -64,26 +77,38 @@ When I'm not working on a project, you'll probably find me experimenting with ne
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zyknn&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyknn&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyknn&theme=github-dark&hide_border=true"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 🌧️ Philosophy
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyknn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyknn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zyknn&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
-
-</div>
+> *Some people wait for the rain to stop.*
+>
+> **I like building while it's pouring.**
 
 ---
 
 <div align="center">
 
-> "Some people wait for the rain to stop. I like building while it's pouring." 🌧️
+### Thanks for visiting! ⭐
+
+If you like my projects, feel free to leave a star or follow my journey.
 
 </div>
