@@ -6,9 +6,8 @@
 
 *Creative Developer crafting bots, websites, and digital experiences.*
 
-<a href="https://instagram.com/wlzbdks"><img src="https://img.shields.io/badge/@zuanxfnd-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://instagram.com/wlzbdks"><img src="https://img.shields.io/badge/@wlzbdks-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/Zyknn"><img src="https://img.shields.io/badge/Zyknn-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://xiself.biz.id"><img src="https://img.shields.io/badge/XiSELF-0F3460?style=flat-square&logo=vercel&logoColor=white" alt="XiSELF"></a>
 
 </div>
 
@@ -16,11 +15,13 @@
 
 ## ✨ About Me
 
-- 🇮🇩 18 y/o Creative Developer from Jakarta, Indonesia
+I'm **Azuan Firnanda**, better known online as **Zykuan**.
+Creative developer and graphic designer, passionate about building digital products that combine functionality with great design.
+
+- 🇮🇩 18 y/o from Jakarta, Indonesia
 - 🤖 Building WhatsApp bots, AI tools, and web applications
 - 🎨 Designing UI, branding, graphics, and digital experiences
-- 💻 AI helps me write code — I help it write better code 😆
-- 🚀 Currently building **XiSELF** & **Calestia**
+- 💻 AI helps me write code — I help it write bette
 - 🌱 Always learning, experimenting, and shipping something new
 
 ---
@@ -31,7 +32,7 @@
 |---------|-------------|
 | [**XiSELF**](https://xiself.biz.id) | AI-powered WhatsApp selfbot platform with automation, anti-delete, media tools, and productivity features. |
 | [**Calestia**](https://calestia.my.id) | Multi-purpose WhatsApp bot featuring AI, media downloaders, sticker maker, and community utilities. |
-| **Graphic Design** | UI/UX, branding, social media assets, thumbnails, and digital visual design for products & communities. |
+| **Graphic Design** | Poster, branding, social media assets, thumbnails, and digital visual design for products & communities. |
 
 ---
 
@@ -80,8 +81,8 @@
 
 <div align="center">
 
-### 💭 Random Fact
+### 💭 Something..
 
-> Most of my projects started with **"what if..."** and somehow became real. 🚀
+Love the Sky, Embrace the Rain. 🌧️
 
 </div>
