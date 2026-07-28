@@ -2,14 +2,9 @@
 
 # 👋 Hey, I'm Azuan Firnanda
 
-### a.k.a **Zykuan**
-
 *Creative Developer crafting bots, websites, and digital experiences.*
 
 <img src="https://files.catbox.moe/wu09wn.jpg" alt="IMG_20220320_184923_554">
-
-<a href="https://instagram.com/wlzbdks"><img src="https://img.shields.io/badge/@wlzbdks-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://github.com/Zyknn"><img src="https://img.shields.io/badge/Zyknn-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
