@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Azuan+Firnanda;a.k.a.+Zykuan;Creative+Developer+%7C+Bot+%26+AI+Builder" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=180&section=header&text=Hey,%20I'm%20Zykuan%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20bots,%20AI%20tools%20%26%20pixel-perfect%20chaos&descAlignY=58&descSize=16" width="100%" alt="header banner"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=Azuan+Firnanda+a.k.a+Zykuan;Creative+Dev+%F0%9F%A4%96+Bot+Builder;Fueled+by+kopi+%26+deadlines" alt="Typing SVG" />
+
+<br><br>
 
 [![Instagram](https://img.shields.io/badge/@zuanxfnd-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wlzbdks)
 [![GitHub](https://img.shields.io/badge/Zyknn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyknn)
@@ -14,17 +16,19 @@
 
 ## ✨ About Me
 
-I'm **Azuan Firnanda**, better known as **Zykuan** — a developer from **Indonesia** who loves building things that are actually useful (and fun to use). My focus sits at the intersection of **WhatsApp bots**, **AI automation**, **web apps**, and **creative digital products**.
+Yo! Gue **Azuan Firnanda**, tapi lebih dikenal sebagai **Zykuan** 🌧️ — developer asal **Indonesia** yang hobinya ngerakit hal-hal yang berguna (dan seru dipakai). Playground utama gue ada di persimpangan **WhatsApp bots**, **AI automation**, **web apps**, dan segala hal kreatif berbau digital.
 
-Outside of code, I also design interfaces, build brands, and chase whatever new tech catches my eye.
+Di luar ngoding, gue juga suka desain UI, bikin branding, dan nyobain teknologi baru — biasanya sambil dengerin lagu random jam 2 pagi. 🎧
 
-```txt
+```js
 const zykuan = {
   location: "Indonesia 🇮🇩",
-  focus: ["WhatsApp Bots", "AI Automation", "Web Apps", "UI/UX"],
+  role: "Creative Developer",
+  focus: ["WhatsApp Bots 🤖", "AI Automation ✨", "Web Apps 🌐", "UI/UX 🎨"],
   currentlyBuilding: ["XiSELF", "Calestia"],
-  currentlyLearning: "something new, every day",
-  philosophy: "I like building while it's pouring."
+  currentlyLearning: "sesuatu yang baru, tiap hari",
+  funFact: "lebih produktif kalau hujan ⛈️",
+  motto: "I like building while it's pouring."
 };
 ```
 
@@ -36,29 +40,30 @@ const zykuan = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 XiSELF
-AI-powered WhatsApp selfbot platform — automation, anti-delete, media tools, productivity features, and built-in AI.
+### 🤖 XiSELF
+AI-powered WhatsApp selfbot yang punya segalanya — automation, anti-delete, media tools, fitur produktivitas, sampai AI bawaan. Selfbot yang beneran ngerti kerjaan lo.
 
 🔗 **[xiself.biz.id](https://xiself.biz.id)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 Calestia
-Multi-purpose WhatsApp bot — AI chat, downloaders, sticker tools, utilities, games, and community features.
+### 🌟 Calestia
+Bot WhatsApp serba bisa — AI chat, downloader, sticker maker, utilities, games, sampai fitur komunitas. Satu bot, sejuta kegunaan.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Graphic Design
-UI/UX, branding, thumbnails, social media assets, and other digital visual work.
+### 🎨 Graphic Design
+UI/UX, branding, thumbnail, aset media sosial — visual yang bikin orang berhenti scroll.
 
 </td>
 <td width="50%" valign="top">
 
-<br>
+### 💡 Got an idea?
+Selalu terbuka buat kolaborasi proyek bot, AI, atau desain. Slide in ke DM aja 👀
 
 </td>
 </tr>
@@ -110,8 +115,8 @@ UI/UX, branding, thumbnails, social media assets, and other digital visual work.
 
 <div align="center">
 
-*Some people wait for the rain to stop.*
-**I like building while it's pouring.**
+*Orang lain nunggu ujan reda.*
+**Gue malah lebih suka ngoding pas lagi deres-derasnya.** ⚡
 
 </div>
 
@@ -119,7 +124,11 @@ UI/UX, branding, thumbnails, social media assets, and other digital visual work.
 
 <div align="center">
 
-### Thanks for stopping by! ⭐
-If you like what I'm building, a star or a follow means a lot.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer" width="100%" alt="footer wave"/>
+
+### Makasih udah mampir! ⭐
+Kalau suka sama proyek gue, mampir kasih star atau follow ya, artinya banyak banget 🙌
+
+**gas terus, jangan kasih kendor.** 🚀
 
 </div>
