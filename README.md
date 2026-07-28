@@ -44,7 +44,6 @@ Creative developer and graphic designer, passionate about building digital produ
 <img src="https://skillicons.dev/icons?i=html,css,sqlite,cloudflare,git,linux" />
 
 </div>
----
 
 ## 📊 GitHub Stats
 
