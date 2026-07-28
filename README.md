@@ -37,9 +37,6 @@ Creative developer and graphic designer, passionate about building digital produ
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,figma" />
-
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=html,css,sqlite,cloudflare,git,linux" />
 </div>
 
