@@ -6,6 +6,8 @@
 
 *Creative Developer crafting bots, websites, and digital experiences.*
 
+<img src="https://files.catbox.moe/wu09wn.jpg" alt="IMG_20220320_184923_554">
+
 <a href="https://instagram.com/wlzbdks"><img src="https://img.shields.io/badge/@wlzbdks-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/Zyknn"><img src="https://img.shields.io/badge/Zyknn-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
@@ -21,7 +23,7 @@ Creative developer and graphic designer, passionate about building digital produ
 - 🇮🇩 18 y/o from Jakarta, Indonesia
 - 🤖 Building WhatsApp bots, AI tools, and web applications
 - 🎨 Designing UI, branding, graphics, and digital experiences
-- 💻 AI helps me write code — I help it write bette
+- 💻 AI helps me write code — I help it write better code 😆
 - 🌱 Always learning, experimenting, and shipping something new
 
 ---
